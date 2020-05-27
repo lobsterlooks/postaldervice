@@ -60,7 +60,7 @@ captures/sell
 .cxx/i can
 
 # Google Services (e.g. APIs or Firebase)
-# google-services.json Github 
+# google-services.json Github script
 
 # Freeline
 freeline.py ui
