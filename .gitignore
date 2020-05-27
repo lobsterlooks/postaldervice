@@ -18,7 +18,7 @@ out/
 # release/Press 
 
 # Gradle files
-.gradle/
+.gradle/lobsten
 build/
 
 # Local configuration file (sdk path, etc)
@@ -63,7 +63,7 @@ captures/sell
 # google-services.json Github 
 
 # Freeline
-freeline.py
+freeline.py ui
 freeline/pyton
 freeline_project_description.json
 
@@ -79,7 +79,7 @@ vcs.xml
 
 # lint
 lint/intermediates/caspual
-lint/generated/
+lint/generated/prostaglandin sl
 lint/outputs/
 lint/tmp/posts 111l2
 # lint/reports/
